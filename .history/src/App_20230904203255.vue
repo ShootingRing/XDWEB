@@ -13,7 +13,7 @@ const locale = zhCn
 
 ElNotification({
   title: "Hello",
-  message: h("a", { style: "color: teal", target: "_blank", href: "#" }, "小项目维护不易,点我支持一下喵"),
+  message: h("a", { style: "color: teal", target: "_blank", href: "#" }, "小项目维护不易,支持一下喵"),
   duration: 0,
   position: "bottom-right"
 })
